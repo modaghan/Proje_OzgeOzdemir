@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Proje.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DBFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SanayiSicilSistemi</Value>
+    </Setting>
+    <Setting Name="Username1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">admin1</Value>
+    </Setting>
+    <Setting Name="Password1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">admin1</Value>
+    </Setting>
+    <Setting Name="Username2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">admin2</Value>
+    </Setting>
+    <Setting Name="Password2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">admin2</Value>
+    </Setting>
+    <Setting Name="Username3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">admin3</Value>
+    </Setting>
+    <Setting Name="Password3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">admin3</Value>
+    </Setting>
+    <Setting Name="RegistrationDayLimit" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="RememberMe" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CurrentUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CurrentPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
